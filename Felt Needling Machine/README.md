@@ -40,6 +40,8 @@ We were inspired by a brainstorming session in class. After learning and discuss
  - Step4: Get the fluffy final product
 
 ## 02｜Workflow  
+
+## 03｜Materials  
 ### 1. Raw materials:  
 
 We decided to replace 3D printed plastic with wool.   
@@ -58,8 +60,6 @@ We decided to replace 3D printed plastic with wool.
  -  **Guide rails (X-axis, Z-axis)**: we make them with rigid cardboard, and add weight with steel wire to maintain balance.
  -  Underlying **surface shell**: enclosed by cardboard.
 <img width="614" height="554" alt="截屏2025-11-04 09 32 25" src="https://github.com/user-attachments/assets/654a73ab-6205-42ca-92bb-e9dd6fd76525" />
-
-## 03｜Materials
 
 ## 04｜What we learned
 
