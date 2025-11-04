@@ -40,6 +40,20 @@ We were inspired by a brainstorming session in class. After learning and discuss
  - Step4: Get the fluffy final product
 
 ## 02｜Workflow  
+**Our workflow consists of five main parts**:
+（Click on the link to jump to the corresponding page）
+ - [Prototypin]()
+ - [Poster production]()
+ - [Attending Makerfaire]()
+ - [Getting feedback]()
+ - [Updating the open source interface]()
+
+### 1. Prototypin
+### 2. Poster production
+### 3. Attending Makerfaire
+### 4. Getting feedback
+### 5. Updating the open source interface
+
 
 ## 03｜Materials  
 ### 1. Raw materials:  
