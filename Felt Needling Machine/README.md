@@ -122,7 +122,9 @@ The structure of the grass mold is reconstructed with strong materials.
  - **Automate Processes**: Write scripts to automate the process from images to code to starting needle punching.  
  - **Safety and appearance**: Add protective covers: Use acrylic sheets or grids to add protective shields to moving parts to prevent users from accidentally touching high-speed moving needles and belts.
    
-### 6. Version iteration 2: Improve the material again to make it more suitable for mass procedural production
+### 6. Version iteration 2: Improve the material again to make it more suitable for mass procedural production  
+<img width="722" height="359" alt="截屏2025-11-04 10 38 20" src="https://github.com/user-attachments/assets/08f746ca-c9b3-44af-b3a6-4e1bbd146dd8" />
+
 
 
 
