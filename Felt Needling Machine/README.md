@@ -61,7 +61,27 @@ We decided to replace 3D printed plastic with wool.
  -  Underlying **surface shell**: enclosed by cardboard.
 <img width="614" height="554" alt="截屏2025-11-04 09 32 25" src="https://github.com/user-attachments/assets/654a73ab-6205-42ca-92bb-e9dd6fd76525" />
 
-## 04｜What we learned
+## 04｜What we learned  
+### 1. Learn about new crafting techniques
+  The initial focus of this topic was to explore the methods and processes of making various objects around us, which allowed us to understand different production and manufacturing techniques. This expanded our understanding of craftsmanship from initially simple applications of workshops such as 3D printing and laser cutting technology to a deeper insight into many mature production processes currently achievable. **This made us realize that what we learned in the "Manufacturing Everything" course indeed has a profound connection with the manufacturing of everyday objects.**  
+
+### 2. Benefits of brainstorming
+  Before coming up with the felt machine, we went through a brainstorming session to reformulate the injection molding process. This taught us: **When it comes to change and innovation, you can think divergently from multiple angles.** For example, when reshaping a process, you can break it down into combinations of elements like materials, energy, conversion methods, scale, etc., or you can describe it using its characteristics. From there, you can start by altering these elements to conceptualize the formation of a new process. This way, **during brainstorming and continuous discussions, we can generate new ideas.**  
+
+### 3. Transfer learning
+**When thinking about the workflow of a machine, we can base it on our existing experience while also referring to the current operating methods of machines and transferring parts of the process.** Just as we did, we transferred the working method of the axes + print heads + base of a 3D printer into the felt machine, making some modifications and additions.
+
+### 4. Gain experience through actual production
+During the model-making process, we gained the following experiences:
+1、 In life, we often create many "garbage" items, and these **useless things can be used to make rough models that assist us in expression.**
+2、 **Only imagining a model in the mind often differs from reality.** When making a needle, we found it was always unbalanced and difficult to stand upright on the axis as we imagined. Fortunately, there were many other materials available, and we eventually repaired it into a balanced model. So, **when making models, it's necessary to consider potential unexpected issues and be prepared.**  
+
+### 5. Engage with real users to get feedback
+At the maker faire, models and posters were displayed. We found that wool materials and simple machine models were very popular with children, and they were very willing to understand and experience how the needle-punching wool works. Many parents also expressed that they had never thought such a craft could become a machine. From this, we can imagine future directions, such as further refining the machine's working structure, realizing the machine, and even adding safety protections to create child-friendly or workshop versions.  
+
+### 6. Reflection on poster production
+Regarding poster production, we have the following reflections: At the maker faire, children barely understood the posters, and adults could only guess the machine's purpose and working method. Therefore, the problem might lie in the posters. **When creating an explanatory poster, it is necessary to express the machine's materials, working method, and results using easy-to-understand and vivid images.**
+
 
 ## 05｜Next steps
 
