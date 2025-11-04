@@ -40,17 +40,15 @@ We were inspired by a brainstorming session in class. After learning and discuss
  - Step4: Get the fluffy final product
 
 ## 02｜Workflow  
-**Our workflow consists of five main parts**:
-（Click on the link to jump to the corresponding page）
- - [Prototypin]()
- - [Poster production]()
- - [Attending Makerfaire]()
- - [Getting feedback]()
- - [Updating the open source interface]()
+**Our workflow consists of five main parts**:  
 
 ### 1. Prototypin
 ### 2. Poster production
 ### 3. Attending Makerfaire
+<img width="644" height="860" alt="截屏2025-11-04 10 33 44" src="https://github.com/user-attachments/assets/7f073591-9176-47a0-8e2c-8b12d13dd63e" />  
+<img width="622" height="837" alt="截屏2025-11-04 10 33 59" src="https://github.com/user-attachments/assets/06e7f08b-e5a6-4399-8dca-90843687fd20" />  
+<img width="853" height="857" alt="截屏2025-11-04 10 34 23" src="https://github.com/user-attachments/assets/d12f5d6f-d7f8-4b26-b0af-960ac6b0a148" />
+
 ### 4. Getting feedback
 ### 5. Updating the open source interface
 
