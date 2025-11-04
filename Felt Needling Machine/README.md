@@ -49,9 +49,11 @@ We were inspired by a brainstorming session in class. After learning and discuss
 <img width="622" height="837" alt="截屏2025-11-04 10 33 59" src="https://github.com/user-attachments/assets/06e7f08b-e5a6-4399-8dca-90843687fd20" />  
 <img width="853" height="857" alt="截屏2025-11-04 10 34 23" src="https://github.com/user-attachments/assets/d12f5d6f-d7f8-4b26-b0af-960ac6b0a148" />
 
-### 4. Getting feedback
-### 5. Updating the open source interface
+### 4. Getting feedback  
+I think our project has a natural affection to young kids. Our users are mostly children. Maybe it's because of its colorful appearance or the eyes on it. They would just come and stand and ask :What this machine is used for?Although we write descriptions on the poster, apparently they don't understand. But still, they can guess that it is something about felt and fabric, and they would do the action of needling before I explain it to them.They were interested in it very much. Some parents told us that they had experience of doing it by hand, instead of using a machine. There's a boy come and try it for a long time. So I think maybe its a good idea if we turn it into a toy's form.  
+Teacher suggested that we can add **more instruction pictures** on the poster.
 
+### 5. Updating the open source interface
 
 ## 03｜Materials  
 ### 1. Raw materials:  
