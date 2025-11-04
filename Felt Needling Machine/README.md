@@ -40,6 +40,24 @@ We were inspired by a brainstorming session in class. After learning and discuss
  - Step4: Get the fluffy final product
 
 ## 02｜Workflow  
+### 1. Raw materials:  
+
+We decided to replace 3D printed plastic with wool.   
+<img width="472" height="434" alt="截屏2025-11-04 09 31 10" src="https://github.com/user-attachments/assets/b5b634df-ced9-435f-9d32-f17d25e7791f" />
+
+ - **Key benefits**:  
+   - **Biodegradable and renewable**: Wool is a natural and renewable resource that can decompose naturally at the end of its life cycle, unlike plastic waste.
+   - **Reduced Carbon Footprint**: Wool production is less dependent on fossil fuels compared to petroleum-derived plastics.
+   - **Non-toxic and safe**: The process uses natural fibers that do not produce harmful fumes, making it safer to use in homes and educational settings.
+   - **Tactile Quality**: Provides a warm, soft, and textured texture that is aesthetically pleasing and pleasant to the touch.
+   - **Structural flexibility**: Felt objects can have a certain degree of flexibility and shock absorption, making them ideal for specific applications such as packaging and wearable devices.
+
+### 2. Machine model production materials:  
+ - **Needle**: multi-row needles, the core component in contact with wool. (We use toothpicks instead in the model)
+ -  **Rollers with needle foam pads** that can place materials are convenient for needle punching at more angles.
+ -  **Guide rails (X-axis, Z-axis)**: we make them with rigid cardboard, and add weight with steel wire to maintain balance.
+ -  Underlying **surface shell**: enclosed by cardboard.
+<img width="614" height="554" alt="截屏2025-11-04 09 32 25" src="https://github.com/user-attachments/assets/654a73ab-6205-42ca-92bb-e9dd6fd76525" />
 
 ## 03｜Materials
 
