@@ -98,5 +98,34 @@ Regarding poster production, we have the following reflections: At the maker fai
 
 
 ## 05｜Next steps
+If we were given another month or more, we would: **Turn the grass mold into a functioning machine**.   
+
+### 1. Transform the "shape" of the sketch mold into executable drawings  
+ - Parametric measurement: accurately measure the dimensions of all structures (length, width and height of the frame, the movement trajectory and distance of the guide rail, the position of the motor, etc.)
+ - Use CAD software or other drawing software to draw two-dimensional drawings
+ - Make the connection relationship of each component
+   
+### 2. Analyze the logic of movement  
+How each axis and roller moves, utilizing the Arduino   
+
+### 3. Material iteration  
+The structure of the grass mold is reconstructed with strong materials.  
+ - Replace the cardboard with multi-layer wooden boards or acrylic boards. These materials are easy to process with laser cutting or simple tools, providing sufficient rigidity.  
+ - Motion system: introduce standard parts. Connection: Screws, nuts, and corner codes are used across the board instead of glue, ensuring a stable and adjustable structure.
+   
+### 4. Core function: acupuncture
+ - Make a reliable gripper with 3D printing or metal parts to ensure that the needle does not loosen or deflect during high-speed up and down movements.
+ - Calibrate the Piercing Depth: Through software and limit switches, precisely control the depth of the needle tip into the wool.
+   
+### 5. Make the machine easy to use, durable, like a real product.
+ - **Improve user experience**: Develop a simple UI: Create a simple web or desktop interface that allows users to directly upload images and click to start without touching complex code.  
+ - **Automate Processes**: Write scripts to automate the process from images to code to starting needle punching.  
+ - **Safety and appearance**: Add protective covers: Use acrylic sheets or grids to add protective shields to moving parts to prevent users from accidentally touching high-speed moving needles and belts.
+   
+### 6. Version iteration 2: Improve the material again to make it more suitable for mass procedural production
+
+
+
+
 
 
