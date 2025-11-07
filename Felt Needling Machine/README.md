@@ -1,11 +1,11 @@
 # Felt Needeling Machine
 **Our felt needeling machine project consisits five parts**:  
   （Click on the link to jump to the corresponding page）
-- [Project Description](https://github.com/Tralalero-Tralala/From-Mass-to-Personal-Production/tree/main/Felt%20Needling%20Machine#01project-description)
-- [Workflow](https://github.com/Tralalero-Tralala/From-Mass-to-Personal-Production/tree/main/Felt%20Needling%20Machine#02workflow)
-- [Materials](https://github.com/Tralalero-Tralala/From-Mass-to-Personal-Production/tree/main/Felt%20Needling%20Machine#03materials)
-- [What we learned](https://github.com/Tralalero-Tralala/From-Mass-to-Personal-Production/tree/main/Felt%20Needling%20Machine#04what-we-learned)
-- [Next steps](https://github.com/Tralalero-Tralala/From-Mass-to-Personal-Production/tree/main/Felt%20Needling%20Machine#05next-steps)
+- [Project Description](https://github.com/Tralalero-Tralala/From-Mass-to-Personal-Production?tab=readme-ov-file#01project-description)
+- [Workflow](https://github.com/Tralalero-Tralala/From-Mass-to-Personal-Production?tab=readme-ov-file#02workflow)
+- [Materials](https://github.com/Tralalero-Tralala/From-Mass-to-Personal-Production?tab=readme-ov-file#03materials)
+- [What we learned](https://github.com/Tralalero-Tralala/From-Mass-to-Personal-Production?tab=readme-ov-file#04what-we-learned)
+- [Next steps](https://github.com/Tralalero-Tralala/From-Mass-to-Personal-Production?tab=readme-ov-file#05next-steps)
 
 ## 01｜Project Description  
 **Felt needeling machine** is a project we finished in **HTAM** class. We want to explore how might we reinterpret **3d modeling** using **felt** in a felt-needling machine, and how to reproduce needling using a felt-needling machine in a **fablab**.
